@@ -1,0 +1,12 @@
+Step-1: Open terminal in folder.
+
+Step-2: py color_detection.py -i <image name with extension> 
+
+For Web Cam:
+1. py color_detection.py
+2. Press C to capture
+3. Press Shift+c to save
+
+Step-3: Double click for color.
+
+Step-4: Esc to close.
