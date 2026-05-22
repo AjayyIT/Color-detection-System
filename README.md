@@ -41,12 +41,13 @@ The system allows users to:
 - Run with Webcam
   - python color_detection.py
 - Run with Image
-  - python color_detection.py --image image.jpg
+  - python color_detection.py --i image.jpg
+- Double click to select
 
 🎮 Controls:
 - ESC -	Exit
 - c	- Freeze/Unfreeze Webcam
-- C	- Capture & Save Current Frame
+- Shift+c	- Save Current Frame
 
 📈 Future Enhancements
 - HSV color detection
